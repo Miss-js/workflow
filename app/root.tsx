@@ -33,7 +33,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <Links />
       </head>
       <body>
-        <h2>f2's</h2>
+        <h2>f2's react router project</h2>
         {children}
         <ScrollRestoration />
         <Scripts />
